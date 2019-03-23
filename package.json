@@ -4,7 +4,7 @@
   "description": "Stylelint config for Marty Louis projects",
   "main": "index.js",
   "scripts": {
-    "prepare": "install-peer"
+    "postinstall": "npx install-peerdeps -o git+https://git@github.com/martylouis/stylelint-config.git"
   },
   "keywords": [
     "stylelint",
