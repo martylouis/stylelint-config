@@ -1,0 +1,46 @@
+{
+  "name": "@martylouis/stylelint-config",
+  "version": "1.0.0",
+  "description": "Stylelint config for Marty Louis projects",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "install-peer"
+  },
+  "keywords": [
+    "stylelint",
+    "scss",
+    "sass",
+    "css",
+    "lint",
+    "linting",
+    "martylouis"
+  ],
+  "author": "Marty Thierry <marty@martylouis.com> (https://martylouis.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martylouis/stylelint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martylouis/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/martylouis/stylelint-config#readme",
+  "devDependencies": {
+    "prettier": "^1.16.4",
+    "prettier-stylelint": "^0.4.2",
+    "stylelint": "^9.10.1",
+    "stylelint-config-prettier": "^5.0.0",
+    "stylelint-config-rational-order": "0.0.4",
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-scss": "^3.5.4"
+  },
+  "peerDependencies": {
+    "prettier": "^1.16.4",
+    "prettier-stylelint": "^0.4.2",
+    "stylelint": "^9.10.1",
+    "stylelint-config-prettier": "^5.0.0",
+    "stylelint-config-rational-order": "0.0.4",
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-scss": "^3.5.4"
+  }
+}
