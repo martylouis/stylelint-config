@@ -7,13 +7,20 @@
 To use this config, install this package to your project.
 
 ```sh
-npm i --dev @martylouis/stylelint-config
+npx install-peerdeps --dev @martylouis/stylelint-config
 ```
 
 Or, if you’re using [Yarn](https://yarn.io) for package management:
 
 ```sh
-yarn add -D @martylouis/stylelint-config
+yarn add -D @martylouis/stylelint-config \
+prettier \
+prettier-stylelint \
+stylelint \
+stylelint-config-prettier \
+stylelint-config-rational-order     \
+stylelint-config-recommended-scss \
+stylelint-scss
 ```
 
 Next add this to your `.stylelintrc`
