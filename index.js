@@ -1,10 +1,11 @@
 module.exports = {
   "extends": [
     "stylelint-config-prettier",
-    "stylelint-config-rational-order",
+    "stylelint-config-idiomatic-order",
     "stylelint-config-recommended-scss"
   ],
   "plugins": ["stylelint-scss"],
+  "defaultSeverity": "warning",
   "rules": {
     "at-rule-no-unknown": null,
     "block-no-empty": null,
