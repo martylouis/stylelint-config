@@ -30,7 +30,7 @@
     "prettier-stylelint": "^0.4.2",
     "stylelint": "^10.1.0",
     "stylelint-config-idiomatic-order": "^7.0.1",
-    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-config-prettier": "^6.0.0",
     "stylelint-config-recommended-scss": "^3.3.0",
     "stylelint-scss": "^3.8.0"
   },
@@ -39,7 +39,7 @@
     "prettier-stylelint": "^0.4.2",
     "stylelint": "^10.1.0",
     "stylelint-config-idiomatic-order": "^7.0.1",
-    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-config-prettier": "^6.0.0",
     "stylelint-config-recommended-scss": "^3.3.0",
     "stylelint-scss": "^3.8.0"
   }
