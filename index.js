@@ -1,3 +1,3 @@
-const stylelintrc = require('./.stylelintrc');
+const stylelintrc = require('./.stylelintrc.js');
 
 module.exports = stylelintrc;
