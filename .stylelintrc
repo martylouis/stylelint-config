@@ -28,7 +28,6 @@
     "no-descending-specificity": null,
     "number-leading-zero": "always",
     "property-no-vendor-prefix": true,
-    "scss/at-rule-no-unknown": true,
     "selector-combinator-space-after": "always",
     "selector-no-qualifying-type": true,
     "selector-no-vendor-prefix": true
