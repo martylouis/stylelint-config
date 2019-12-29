@@ -13,6 +13,7 @@
     "css",
     "lint",
     "linting",
+    "prettier",
     "martylouis"
   ],
   "author": "Marty Thierry <marty@martylouis.com> (https://martylouis.com/)",
