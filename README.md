@@ -4,11 +4,11 @@ An opinionated [Stylelint](https://stylelint.io) config for writing neat CSS or 
 
 ## Installation
 
-1. Install this package with `npx`.
+### 1. Install this package with `npx`.
 ```sh
 npx install-peerdeps --dev @martylouis/stylelint-config
 ```
-2. Add this to your `.stylintrc`
+### 2. Add this to your `.stylintrc`
 
 ```json
 {
