@@ -28,7 +28,7 @@
   "homepage": "https://github.com/martylouis/stylelint-config#readme",
   "devDependencies": {
     "prettier": "^1.19.1",
-    "stylelint": "^12.0.1",
+    "stylelint": "^13.0.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-order": "^4.0.0",
@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "prettier": "^1.19.1",
-    "stylelint": "^12.0.1",
+    "stylelint": "^13.0.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-recommended": "^3.0.0",
     "stylelint-order": "^4.0.0",
